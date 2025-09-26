@@ -1,4 +1,4 @@
-## Codeforces Submissions
+# Codeforces Submissions
 
 *Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
 
