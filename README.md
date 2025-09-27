@@ -1,4 +1,4 @@
-# Codeforces Submissions
+## Codeforces Submissions
 
 *Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
 
@@ -18,6 +18,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 36 | [A - Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/633/submission/340727655) | `brute force` `math` `number theory` `*1100` | Sep/27/2025 10:23 AM |
+| 35 | [B - Maximum of Maximums of Minimums](https://codeforces.com/contest/872/problem/B) | [C++20 (GCC 13-64)](https://codeforces.com/contest/872/submission/340630049) | `implementation` `*1200` | Sep/26/2025 03:20 PM |
+| 34 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1916/submission/340580471) | `constructive algorithms` `math` `number theory` `*1000` | Sep/26/2025 08:52 AM |
 | 33 | [G - Fire Coverage](https://codeforces.com/contest/106068/problem/G) | [Python 3](https://codeforces.com/contest/106068/submission/340371857) |  | Sep/25/2025 03:36 PM |
 | 32 | [H - Wanna win? Solve](https://codeforces.com/contest/106068/problem/H) | [Python 3](https://codeforces.com/contest/106068/submission/340370545) |  | Sep/25/2025 03:32 PM |
 | 31 | [C - Stones Game](https://codeforces.com/contest/106068/problem/C) | [PyPy 3-64](https://codeforces.com/contest/106068/submission/338631681) |  | Sep/14/2025 05:39 PM |
