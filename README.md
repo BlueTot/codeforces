@@ -18,6 +18,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 41 | [G - Word Search](https://codeforces.com/contest/105446/problem/G) | [C++20 (GCC 13-64)](https://codeforces.com/contest/105446/submission/341886246) |  | Oct/04/2025 05:43 PM |
+| 40 | [L - Leg Day](https://codeforces.com/contest/105446/problem/L) | [C++20 (GCC 13-64)](https://codeforces.com/contest/105446/submission/341564108) |  | Oct/02/2025 10:25 PM |
+| 39 | [A - Amalgram](https://codeforces.com/contest/105446/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/105446/submission/341367581) |  | Oct/01/2025 06:43 PM |
+| 38 | [C - Fibonacci](https://codeforces.com/contest/102644/problem/C) | [C++20 (GCC 13-64)](https://codeforces.com/contest/102644/submission/340743839) |  | Sep/27/2025 12:13 PM |
+| 37 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/199/submission/340736216) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Sep/27/2025 11:23 AM |
 | 36 | [A - Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/633/submission/340727655) | `brute force` `math` `number theory` `*1100` | Sep/27/2025 10:23 AM |
 | 35 | [B - Maximum of Maximums of Minimums](https://codeforces.com/contest/872/problem/B) | [C++20 (GCC 13-64)](https://codeforces.com/contest/872/submission/340630049) | `implementation` `*1200` | Sep/26/2025 03:20 PM |
 | 34 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1916/submission/340580471) | `constructive algorithms` `math` `number theory` `*1000` | Sep/26/2025 08:52 AM |
